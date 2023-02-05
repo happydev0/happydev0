@@ -1,4 +1,3 @@
-[![MasterHead]
 <h1 align="center"> 😇Hi, I'm Ryan Lees 👋</h1>
 <h3 align="center">Backend Developer</h3>
 <h3 align="center">A passionate Node Backend Developer from Canada.</h3>
@@ -37,11 +36,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=RyanLees&show_icons=true&locale=en" alt="visheshguria" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=visheshguria&" alt="visheshguria" /></p> -->
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=visheshguria" alt="visheshguria" /></p>
-<br/>
 
-<a href="https://github.com/visheshguria/github-readme-activity-graph"><img alt="Ryan Lees's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ryan Lees&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 
