@@ -22,6 +22,8 @@
 - 💬 Ask me about **Node.js, DSA, javascript, css, html**
 
 - 📫 How to reach me **happydev0705@gmail.com**
+- Good experience in developing RESTful API
+- Developed webRTC project using websockets
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visheshguria&label=Profile%20views&color=0e75b6&style=flat" alt="visheshguria" /> </p>
