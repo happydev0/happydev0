@@ -22,6 +22,9 @@
 - 📫 How to reach me **happydev0705@gmail.com**
 - Good experience in developing RESTful API
 - Developed webRTC project using websockets
+- Expertise in Web includes Frontend development with React & Redux, Next.js with different kinds of UI frameworks such as Ant Design, Material UI, Chakra UI
+- Extensive experience in Tailwind CSS
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visheshguria&label=Profile%20views&color=0e75b6&style=flat" alt="visheshguria" /> </p>
